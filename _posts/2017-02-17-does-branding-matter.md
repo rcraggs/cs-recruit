@@ -1,5 +1,5 @@
 ---
-title: "Do SMEs need to advertise their brand to students?"
+title: "Should SMEs advertise their brand to students?"
 categories:
   - Attracting Candidates
 tags:
@@ -9,6 +9,7 @@ header:
   overlay_image: /assets/images/careers-fair.jpeg
   overlay_filter: rgba(200, 100, 150, 0.9)
 comments: true
+sign_up: true
 
 ---
 
