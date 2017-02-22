@@ -7,7 +7,7 @@ title                    : "Hire great Computer Science graduates"
 title_separator          : "-"
 name                     : "Richard Craggs"
 description              : "Resources and guidance on how to find and attract the best Computer Science graduates for your business"
-url                      : https://rcraggs.github.io
+url                      : https://www.hirecsgraduates.co.uk
 baseurl                  : /cs-recruit # the subpath of your site, e.g. "/blog"
 repository               : rcraggs/cs-recruit # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -239,6 +239,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      sign_up: true
   # _pages
   - scope:
       path: ""
@@ -247,3 +248,5 @@ defaults:
       layout: single
       author_profile: true
       contact_link: "mailto:rcraggs@gmail.com"
+      sign_up: true
+      
