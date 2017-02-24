@@ -4,7 +4,7 @@ categories:
   - Attracting Candidates
 tags:
   - TAG
-excerpt: ""
+excerpt: "Many employers simply email universities asking for job adverts to be forwarded to students. This approach doesn't work very well. What should you do instead?"
 header:
   overlay_image: /assets/images/baby-steps.jpg
   overlay_filter: rgba(100, 200, 150, 0.8)
