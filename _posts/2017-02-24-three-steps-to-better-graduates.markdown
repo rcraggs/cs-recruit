@@ -2,8 +2,6 @@
 title: Three steps to better graduates
 categories:
   - Attracting Candidates
-tags:
-  - TAG
 excerpt: "Many employers simply email universities asking for job adverts to be forwarded to students. This approach doesn't work very well. What should you do instead?"
 header:
   overlay_image: /assets/images/baby-steps.jpg
