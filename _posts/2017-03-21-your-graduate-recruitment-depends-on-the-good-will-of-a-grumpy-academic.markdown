@@ -4,7 +4,7 @@ categories:
   - Advertising roles
 tags:
   - Understanding universities
-excerpt: ""
+excerpt: "Sending an email to one or more staff in a Computer Science department telling them to advertise your role is a not a sure-fire route to top graduates"
 header:
   overlay_image: /assets/images/grumpty-teacher.jpg
   overlay_filter: rgba(70, 120, 100, 0.7)
