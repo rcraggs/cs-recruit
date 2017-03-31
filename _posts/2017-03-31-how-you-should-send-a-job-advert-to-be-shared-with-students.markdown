@@ -4,7 +4,7 @@ categories:
   - Advertising roles
 tags:
   - Understanding Universities
-excerpt: "To advertise roles to students should you send a job advert as a PDF? Or just some text in an email?. Unfortunately, this is an 'it depends' type question."
+excerpt: "To advertise roles to students should you send a job advert as a PDF? Or just some text in an email? Unfortunately, this is an 'it depends' type question."
 header:
   overlay_image: /assets/images/flyer.jpeg
   overlay_filter: rgba(200, 120, 60, 0.7)
